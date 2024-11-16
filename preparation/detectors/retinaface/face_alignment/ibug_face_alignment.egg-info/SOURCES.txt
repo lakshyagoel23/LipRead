@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+ibug/face_alignment/__init__.py
+ibug/face_alignment/utils.py
+ibug_face_alignment.egg-info/PKG-INFO
+ibug_face_alignment.egg-info/SOURCES.txt
+ibug_face_alignment.egg-info/dependency_links.txt
+ibug_face_alignment.egg-info/not-zip-safe
+ibug_face_alignment.egg-info/requires.txt
+ibug_face_alignment.egg-info/top_level.txt
